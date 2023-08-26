@@ -52,7 +52,7 @@ const Mentors = () => {
               <div className="pb-[1rem]">
                 <img
                   src={item.userImg}
-                  className="h-[80px] w-[80px] rounded-full border-white border-solid border-2"
+                  className="h-[80px] w-[80px] rounded-full border-white border-solid border-2 p-1 bg-blue-900"
                   alt="mentor-img"
                 />
               </div>
